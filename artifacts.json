@@ -1,6 +1,6 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/Trey-Scheid/artifact-directory-privacy-in-practice.git",
+    "project-repository": "https://github.com/Trey-Scheid/privacy-in-practice.git",
+    "project-website-url": "https://trey-scheid.github.io/privacy-in-practice/",
+    "project-website-code": "https://github.com/Trey-Scheid/privacy-in-practice.git/tree/website"
 }

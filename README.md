@@ -1,10 +1,11 @@
-# artifact-directory-template
+# artifact-directory-privacy-in-practice
 
-This repository is a template for turning in links/locations to your
-project artifacts. Instructions:
+This repository follows the dsc-capstone template and helps link our project components to the [showcase website for 2025](https://dsc-capstone.org/showcase-25/). 
 
-1. Fork this repository.
-   * You will be changing the file contents in this repository, but
+Original Instructions:
+
+1. Fork [DSC-Capstone/artifact-directory-template](https://github.com/DSC-Capstone/artifact-directory-template)
+   * You will be changing the file contents, but
      *do not change the file names!*
 2. Replace the blank `report.pdf` with your final project report. This is the version that will be linked at [hdsishowcase.com](https://hdsishowcase.com). (Note that you will also have to upload your report separately to Gradescope for your mentor to grade it.)
 3. Edit `title-abstract.txt` and replace the sample title/abstract
